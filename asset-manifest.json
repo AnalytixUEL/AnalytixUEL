@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AnalytixUEL/Deploy_repo/static/css/main.109948d1.css",
+    "main.js": "/AnalytixUEL/Deploy_repo/static/js/main.52ae8f92.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/AnalytixUEL/Deploy_repo/static/js/787.9e9f4ffd.chunk.js",
+    "index.html": "/AnalytixUEL/Deploy_repo/index.html",
+    "main.109948d1.css.map": "/AnalytixUEL/Deploy_repo/static/css/main.109948d1.css.map",
+    "main.52ae8f92.js.map": "/AnalytixUEL/Deploy_repo/static/js/main.52ae8f92.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/AnalytixUEL/Deploy_repo/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.109948d1.css",
+    "static/js/main.52ae8f92.js"
+  ]
+}
